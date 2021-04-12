@@ -38,6 +38,21 @@ con relativa didascalia in italiano ed inglese.<br>
              <tr><td>realizzazione</td><td>21-mar</td><td>10-apr</td><td>21</td>
               <tr><td>collaudo</td><td>11-apr</td><td>12-apr</td><td>2</td>
                   </table>
+<h2><b>PRINCIPALI RISORSE E LIMITI DI COSTO</b></h2>
+<p>La versione del progetto costa circa 2$<br>
+      le risorse impegnate nel progetto sono:<br>
+ programmatori(1$ a testa per il lavoro)<br>
+il progetto dovrà riportare un margine economico del 40%(ovvero 0.80$ in più)<br>
+</p>
+<h2><b>DOCUMENTI DI RIFERIMENTO</b></h2>
+<p>brugi’s plan azienda per il progetto</p>
+<h2><b>STRUTTURA ORGANIZZATIVA</b></h2>
+<p>PROJECT MANAGER: Giusti Tommaso, Mirko Ciurli<br>
+TEAM DI PROGETTO : Giusti Tommaso, Mirko Ciurli<br>
+</p>
+<h2><b>AUTORIZZAZIONE </b></h2>
+<p><b>APPROVATO DA </b> DOTT. Stefano Pardini<br>
+</p>
 
 
 
