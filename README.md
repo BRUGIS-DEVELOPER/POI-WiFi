@@ -1,10 +1,10 @@
 # POI-WiFi
 progetto di GPOI
 
-<DOCTYPE!>
+
 <html>
 <head>
-  <title>PROJECT CHARTER</title>
+ 
 </head>
 <body>
     <table>
