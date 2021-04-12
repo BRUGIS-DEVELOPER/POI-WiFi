@@ -32,6 +32,13 @@ con relativa didascalia in italiano ed inglese.<br>
 <p>Il progetto iniziera immediatamente il 15 marzo 2021 <br>
  e deve concludersi entro il 13/04/21
 </p>
+  <table>
+         <tr><td>/td><td>da</td><td>a</td><td>gg</td>
+           <tr><td>avvio</td><td>15-mar</td><td>20-mar</td><td>6</td>
+             <tr><td>realizzazione</td><td>21-mar</td><td>10-apr</td><td>21</td>
+              <tr><td>collaudo</td><td>11-apr</td><td>12-apr</td><td>2</td>
+                  </table>
+
 
 
 </body>
