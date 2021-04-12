@@ -21,6 +21,18 @@
           progettazione: interfaccia utente<br>
            esecuzione: programma applicativo<br>
       </p>
+ <h2><b>VINCOLI</b></h2>
+ <p>le risorse necessarie all’azienda:<br>
+un video di presentazione breve del POI della durata tipica di un minuto<br>
+ esclusivamente in italiano con sottotitoli in inglese;<br>
+un massimo di tre immagini relative al POI (es. dettagli architettonici, quadri, ...) <br>
+con relativa didascalia in italiano ed inglese.<br>
+</p>
+<h2><b>TEMPISTICA</b></h2>
+<p>Il progetto iniziera immediatamente il 15 marzo 2021 <br>
+ e deve concludersi entro il 13/04/21
+</p>
+
 
 </body>
 </html>
