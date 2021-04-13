@@ -10,7 +10,7 @@
     <table>
          <tr><td>PROGETTO: gpoi</td><td>CODICE PROGETTO:104</td>
            <tr><td>DATA: 15/3/2021</td><td>REVISIONE: 0</td>
-              <tr><td>CLIENTE: visitatore</td><td>SPONSOR:  www.mangiataralli.com</td>
+              <tr><td>CLIENTE: visitatore</td><td>SPONSOR:  www.abc.com</td>
     </table>
   <h2><b>OBIETTIVI</b></h2>
       <p>Realizzare un'infrastruttura tecnologica che offra ai visitatori un servizio per la fruizione di contenuti multimediali</p>
@@ -51,7 +51,7 @@ il progetto dovrà riportare un margine economico del 40%(ovvero 0.80$ in più)<
 TEAM DI PROGETTO : Giusti Tommaso, Mirko Ciurli<br>
 </p>
 <h2><b>AUTORIZZAZIONE </b></h2>
-<p><b>APPROVATO DA </b> DOTT. Stefano Pardini<br>
+<p><b>APPROVATO DA </b> DOTT. Mario Rossi<br>
 </p>
 
 
