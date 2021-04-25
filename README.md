@@ -1,12 +1,6 @@
 
-#progetto di GPOI
+# progetto di GPOI
 
-
-<html>
-<head>
- 
-</head>
-<body>
     
          | PROGETTO: gpoi| CODICE PROGETTO:104 |
          | DATA: 15/3/2021 | REVISIONE: 0 |
@@ -20,7 +14,13 @@
           progettazione:infrastruttura tecnologica
           progettazione: interfaccia utente
            esecuzione: programma applicativo
-      
+           
+  
+<html>
+<head>
+ 
+</head>
+<body>    
  <h2><b>VINCOLI</b></h2>
  <p>le risorse necessarie all’azienda:<br>
 un video di presentazione breve del POI della durata tipica di un minuto<br>
