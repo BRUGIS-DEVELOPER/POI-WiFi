@@ -36,24 +36,22 @@ Il progetto iniziera immediatamente il 15 marzo 2021
 | avvio         | 15-mar | 20-mar | 6  |   |
 | realizzazione | 21-mar | 10-apr | 21 |   |
 | collaudo      | 11-apr | 12-apr | 2  |   |
-<h2><b>PRINCIPALI RISORSE E LIMITI DI COSTO</b></h2>
-<p>La versione del progetto costa circa 2$<br>
-      le risorse impegnate nel progetto sono:<br>
- programmatori(1$ a testa per il lavoro)<br>
-il progetto dovrà riportare un margine economico del 40%(ovvero 0.80$ in più)<br>
-</p>
-<h2><b>DOCUMENTI DI RIFERIMENTO</b></h2>
-<p>brugi’s plan azienda per il progetto</p>
-<h2><b>STRUTTURA ORGANIZZATIVA</b></h2>
-<p>PROJECT MANAGER: Giusti Tommaso, Mirko Ciurli<br>
-TEAM DI PROGETTO : Giusti Tommaso, Mirko Ciurli<br>
-</p>
-<h2><b>AUTORIZZAZIONE </b></h2>
-<p><b>APPROVATO DA </b> DOTT. Mario Rossi<br>
-</p>
+
+## PRINCIPALI RISORSE E LIMITI DI COSTO
+<p>La versione del progetto costa circa 2$
+      le risorse impegnate nel progetto sono:
+ programmatori(1$ a testa per il lavoro)
+il progetto dovrà riportare un margine economico del 40%(ovvero 0.80$ in più)
+
+## DOCUMENTI DI RIFERIMENTO
+brugi’s plan azienda per il progetto
+
+## STRUTTURA ORGANIZZATIVA
+PROJECT MANAGER: Giusti Tommaso, Mirko Ciurli
+
+## AUTORIZZAZIONE
+APPROVATO DA : DOTT. Mario Rossi
 
 
 
-</body>
-</html>
 
