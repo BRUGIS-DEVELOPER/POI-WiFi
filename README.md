@@ -31,12 +31,11 @@ con relativa didascalia in italiano ed inglese.
 Il progetto iniziera immediatamente il 15 marzo 2021 
  e deve concludersi entro il 13/04/21
 
-  <table>
-         <tr><td></td><td>da</td><td>a</td><td>gg</td>
-           <tr><td>avvio</td><td>15-mar</td><td>20-mar</td><td>6</td>
-             <tr><td>realizzazione</td><td>21-mar</td><td>10-apr</td><td>21</td>
-              <tr><td>collaudo</td><td>11-apr</td><td>12-apr</td><td>2</td>
-                  </table>
+ |               | da     | a      | gg |   |
+|---------------|--------|--------|----|---|
+| avvio         | 15-mar | 20-mar | 6  |   |
+| realizzazione | 21-mar | 10-apr | 21 |   |
+| collaudo      | 11-apr | 12-apr | 2  |   |
 <h2><b>PRINCIPALI RISORSE E LIMITI DI COSTO</b></h2>
 <p>La versione del progetto costa circa 2$<br>
       le risorse impegnate nel progetto sono:<br>
