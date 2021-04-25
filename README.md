@@ -1,11 +1,13 @@
 
 # progetto di GPOI
 
-         
-       | PROGETTO: gpoi      | CODICE PROGETTO:104 |   
-|---------------------|---------------------|
-| DATA: 15/3/2021     | REVISIONE: 0        |       
-| CLIENTE: visitatore | SPONSOR:  www.abc.com  |        
+           
+
+| PROGETTO: gpoi      | CODICE PROGETTO:104 |             |   |   |
+|---------------------|---------------------|-------------|---|---|
+| DATA: 15/3/2021     | REVISIONE: 0        |             |   |   |
+| CLIENTE: visitatore | SPONSOR:            | www.abc.com |   |   |
+|                     |                     |             |   |   |
 
     
   ## OBIETTIVI
