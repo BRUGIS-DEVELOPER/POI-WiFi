@@ -13,12 +13,11 @@
   ## OBIETTIVI
   Realizzare un'infrastruttura tecnologica che offra ai visitatori un servizio per la fruizione di contenuti multimediali
    ## PRINCIPALI DELIVERABLES
-    pianificazione:
+           pianificazione:
           progettazione: analisi e specifiche
           progettazione:infrastruttura tecnologica
           progettazione: interfaccia utente
            esecuzione: programma applicativo
-           
   
  ## VINCOLI 
  le risorse necessarie all’azienda:
