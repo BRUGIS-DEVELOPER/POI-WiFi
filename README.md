@@ -37,11 +37,11 @@ Il progetto iniziera immediatamente il 15 marzo 2021
 | collaudo      | 11-apr | 12-apr | 2  |   |
 
 ## DIAGRAMMA DI GANTT
-|               | da     | a      | gg |   |
-|---------------|--------|--------|----|---|
-| avvio         | 15-mar | 20-mar | 6  |   |
-| realizzazione | 21-mar | 10-apr | 21 |   |
-| collaudo      | 11-apr | 12-apr | 2  |   |
+|               | 15 mar    |  20 mar  | 21 mar | 10 apr  | 11 apr | 12 apr |
+|---------------|-----------|----------|--------|---------|--------|--------|
+| avvio         | X         | X        |        |         |        |        |
+| realizzazione |           |          |X       |      X  |        |        | 
+| collaudo      |           |          |        |         |  X     |    X   |
 
 ## PRINCIPALI RISORSE E LIMITI DI COSTO
 <p>La versione del progetto costa circa 2$
