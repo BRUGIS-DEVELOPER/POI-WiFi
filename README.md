@@ -54,6 +54,7 @@ brugi’s plan azienda per il progetto
 
 ## STRUTTURA ORGANIZZATIVA
 PROJECT MANAGER: Giusti Tommaso, Mirko Ciurli
+TEAM DI PROGETTAZIONE: Giusti Tommaso, Mirko Ciurli
 
 ## AUTORIZZAZIONE
 APPROVATO DA : DOTT. Mario Rossi
